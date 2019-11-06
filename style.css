@@ -1,0 +1,36 @@
+body{
+padding:0;
+margin:0;
+background-color: #00ffff;
+font-family: 'EB Garamond', serif;
+font-family: 'Gruppo', cursive;
+font-family: 'Pacifico', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Questrial', sans-serif;
+font-family: 'Satisfy', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Yeon Sung', cursive;
+text-align:center;
+font-size: 29px ;
+	
+}
+a{
+text-decoration:none;	
+	
+}
+a :link{
+color: #000000;
+text-decoration:none;
+list-style-type: none;
+
+}
+
+h1{
+	color:#006400;
+	text-decoration:none;
+}
+ul{
+	 list-style-type: none;
+}
+
+
