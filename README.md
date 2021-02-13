@@ -1,6 +1,6 @@
 #  Carro x Uber
 
-[![NPM](https://img.shields.io/npm/l/react)]https://github.com/bea3853/car_x_uber/edit/master/README.md
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/bea3853/car_x_uber/blob/master/LICENSE)
 
   
 
