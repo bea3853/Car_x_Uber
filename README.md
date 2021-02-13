@@ -1,9 +1,3 @@
-
- A analise apresenta um código de comparação e apresentação de 
- algumas possibilidades.
- Serve para treinar
-Em html css e Js.
-
 #  Carro x Uber
 
 [![NPM](https://img.shields.io/npm/l/react)]https://github.com/bea3853/car_x_uber/edit/master/README.md
@@ -22,7 +16,7 @@ car_x_Uber é uma aplicação Web bem humorada, para comparar valores de gastos 
 
   
 
-A aplicação consiste em colatar dados do usuário e imprimir na tela. Gerando uma comparação e uma crítica aos gastos com viagem. 
+A aplicação consiste em coletar dados do usuário e imprimir na tela. Gerando uma comparação dos gastos e das possibilidades com viagem. 
 
   
 
