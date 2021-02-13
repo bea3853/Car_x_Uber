@@ -16,7 +16,7 @@ car_x_Uber é uma aplicação Web bem humorada, para comparar valores de gastos 
 
   
 
-A aplicação consiste em coletar dados do usuário e imprimir na tela. Gerando uma comparação dos gastos e das possibilidades com viagem. 
+A aplicação consiste em coletar dados do usuário e imprimir na tela. Gerando uma comparação dos gastos e das possibilidades com a viagem. 
 
   
 
