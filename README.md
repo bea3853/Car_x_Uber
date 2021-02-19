@@ -25,7 +25,7 @@ A aplicação consiste em coletar dados do usuário e imprimir na tela. Gerando 
 
 ##  Front end
 
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS 
 
 
 ##  Implantação em produção
