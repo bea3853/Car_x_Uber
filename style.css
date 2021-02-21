@@ -2,14 +2,14 @@ body{
 padding:0;
 margin:0;
 background-color:#7FFF00;
-font-family: 'EB Garamond', serif;
+font-family: 'Anton', sans-serif;
 font-family: 'Gruppo', cursive;
 font-family: 'Pacifico', cursive;
 font-family: 'Permanent Marker', cursive;
-font-family: 'Questrial', sans-serif;
+font-family: 'Anton', sans-serif;
 font-family: 'Satisfy', cursive;
 font-family: 'Shadows Into Light', cursive;
-font-family: 'Yeon Sung', cursive;
+font-family: 'Anton', sans-serif;
 text-align:center;
 font-size: 29px ;
 	
@@ -26,7 +26,7 @@ list-style-type: none;
 }
 
 h1{
-	color:#006400;
+	color:#ffffff;
 	text-decoration:none;
 }
 ul{
