@@ -12,7 +12,7 @@ https://bea3853.github.io/car_x_uber/
 
   
 
-car_x_Uber é uma aplicação Web bem humorada, para comparar valores de gastos com viagem. 
+Car_x_Uber é uma aplicação Web bem humorada, para comparar valores de gastos com viagem. 
 
   
 
